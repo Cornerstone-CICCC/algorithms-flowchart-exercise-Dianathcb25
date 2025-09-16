@@ -1,0 +1,8 @@
+Start
+INPUT a,b,c
+IF a>b and a>c
+Print a
+else IF b>c
+Print b
+Else Print c
+Stop
