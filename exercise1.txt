@@ -1,0 +1,5 @@
+Start
+INPUT length in feet (LFT)
+LCM = LFT*30
+PRINT = LCM
+Stop
