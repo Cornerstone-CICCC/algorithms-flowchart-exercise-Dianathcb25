@@ -1,0 +1,5 @@
+Start
+INPUT w, l
+A=w*l
+PRINT= A
+Stop
