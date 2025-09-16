@@ -1,0 +1,10 @@
+Start
+INPUT n
+IF n>=80
+Print A
+IF n>=60
+Print B
+IF n>=40
+Print C
+Else No_Grade
+Stop
